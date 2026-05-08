@@ -1,0 +1,121 @@
+"filename", "language", "JSON with Comments", "TypeScript JSX", "PostCSS", "TypeScript", "JSON", "YAML", "JavaScript", "Markdown", "XML", "comment", "blank", "total"
+"d:\dry-fruits-app\WEB APP\SETUP_INSTRUCTIONS.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 131, 0, 0, 36, 167
+"d:\dry-fruits-app\WEB APP\app\about\page.tsx", "TypeScript JSX", 0, 175, 0, 0, 0, 0, 0, 0, 0, 5, 13, 193
+"d:\dry-fruits-app\WEB APP\app\account\orders\page.tsx", "TypeScript JSX", 0, 82, 0, 0, 0, 0, 0, 0, 0, 2, 9, 93
+"d:\dry-fruits-app\WEB APP\app\account\page.tsx", "TypeScript JSX", 0, 134, 0, 0, 0, 0, 0, 0, 0, 4, 15, 153
+"d:\dry-fruits-app\WEB APP\app\admin\orders\loading.tsx", "TypeScript JSX", 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"d:\dry-fruits-app\WEB APP\app\admin\orders\page.tsx", "TypeScript JSX", 0, 352, 0, 0, 0, 0, 0, 0, 0, 1, 21, 374
+"d:\dry-fruits-app\WEB APP\app\admin\page.tsx", "TypeScript JSX", 0, 235, 0, 0, 0, 0, 0, 0, 0, 6, 18, 259
+"d:\dry-fruits-app\WEB APP\app\admin\products\loading.tsx", "TypeScript JSX", 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"d:\dry-fruits-app\WEB APP\app\admin\products\page.tsx", "TypeScript JSX", 0, 323, 0, 0, 0, 0, 0, 0, 0, 2, 24, 349
+"d:\dry-fruits-app\WEB APP\app\admin\shipments\loading.tsx", "TypeScript JSX", 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 1, 4
+"d:\dry-fruits-app\WEB APP\app\admin\shipments\page.tsx", "TypeScript JSX", 0, 176, 0, 0, 0, 0, 0, 0, 0, 1, 16, 193
+"d:\dry-fruits-app\WEB APP\app\api\paytm\callback\route.ts", "TypeScript", 0, 0, 0, 11, 0, 0, 0, 0, 0, 6, 5, 22
+"d:\dry-fruits-app\WEB APP\app\api\paytm\initiate\route.ts", "TypeScript", 0, 0, 0, 25, 0, 0, 0, 0, 0, 6, 5, 36
+"d:\dry-fruits-app\WEB APP\app\cart\page.tsx", "TypeScript JSX", 0, 136, 0, 0, 0, 0, 0, 0, 0, 7, 18, 161
+"d:\dry-fruits-app\WEB APP\app\checkout\page.tsx", "TypeScript JSX", 0, 449, 0, 0, 0, 0, 0, 0, 0, 12, 48, 509
+"d:\dry-fruits-app\WEB APP\app\contact\page.tsx", "TypeScript JSX", 0, 168, 0, 0, 0, 0, 0, 0, 0, 2, 18, 188
+"d:\dry-fruits-app\WEB APP\app\faq\page.tsx", "TypeScript JSX", 0, 72, 0, 0, 0, 0, 0, 0, 0, 0, 8, 80
+"d:\dry-fruits-app\WEB APP\app\forgot-password\page.tsx", "TypeScript JSX", 0, 104, 0, 0, 0, 0, 0, 0, 0, 0, 11, 115
+"d:\dry-fruits-app\WEB APP\app\globals.css", "PostCSS", 0, 0, 292, 0, 0, 0, 0, 0, 0, 4, 35, 331
+"d:\dry-fruits-app\WEB APP\app\layout.tsx", "TypeScript JSX", 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 4, 34
+"d:\dry-fruits-app\WEB APP\app\login\page.tsx", "TypeScript JSX", 0, 111, 0, 0, 0, 0, 0, 0, 0, 0, 13, 124
+"d:\dry-fruits-app\WEB APP\app\page.tsx", "TypeScript JSX", 0, 240, 0, 0, 0, 0, 0, 0, 0, 7, 24, 271
+"d:\dry-fruits-app\WEB APP\app\privacy-policy\page.tsx", "TypeScript JSX", 0, 45, 0, 0, 0, 0, 0, 0, 0, 0, 8, 53
+"d:\dry-fruits-app\WEB APP\app\products\[id]\page.tsx", "TypeScript JSX", 0, 166, 0, 0, 0, 0, 0, 0, 0, 11, 19, 196
+"d:\dry-fruits-app\WEB APP\app\products\page.tsx", "TypeScript JSX", 0, 299, 0, 0, 0, 0, 0, 0, 0, 13, 28, 340
+"d:\dry-fruits-app\WEB APP\app\return-policy\page.tsx", "TypeScript JSX", 0, 41, 0, 0, 0, 0, 0, 0, 0, 0, 8, 49
+"d:\dry-fruits-app\WEB APP\app\shipping-policy\page.tsx", "TypeScript JSX", 0, 42, 0, 0, 0, 0, 0, 0, 0, 0, 8, 50
+"d:\dry-fruits-app\WEB APP\app\signup\page.tsx", "TypeScript JSX", 0, 144, 0, 0, 0, 0, 0, 0, 0, 0, 17, 161
+"d:\dry-fruits-app\WEB APP\app\terms-of-service\page.tsx", "TypeScript JSX", 0, 42, 0, 0, 0, 0, 0, 0, 0, 0, 8, 50
+"d:\dry-fruits-app\WEB APP\components.json", "JSON", 0, 0, 0, 0, 21, 0, 0, 0, 0, 0, 1, 22
+"d:\dry-fruits-app\WEB APP\components\animated-button.tsx", "TypeScript JSX", 0, 29, 0, 0, 0, 0, 0, 0, 0, 0, 6, 35
+"d:\dry-fruits-app\WEB APP\components\auth-modal.tsx", "TypeScript JSX", 0, 221, 0, 0, 0, 0, 0, 0, 0, 0, 23, 244
+"d:\dry-fruits-app\WEB APP\components\counter-animation.tsx", "TypeScript JSX", 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 11, 42
+"d:\dry-fruits-app\WEB APP\components\floating-cart-badge.tsx", "TypeScript JSX", 0, 36, 0, 0, 0, 0, 0, 0, 0, 2, 6, 44
+"d:\dry-fruits-app\WEB APP\components\footer.tsx", "TypeScript JSX", 0, 93, 0, 0, 0, 0, 0, 0, 0, 4, 6, 103
+"d:\dry-fruits-app\WEB APP\components\header.tsx", "TypeScript JSX", 0, 283, 0, 0, 0, 0, 0, 0, 0, 4, 19, 306
+"d:\dry-fruits-app\WEB APP\components\hover-card.tsx", "TypeScript JSX", 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 6, 27
+"d:\dry-fruits-app\WEB APP\components\mega-menu.tsx", "TypeScript JSX", 0, 83, 0, 0, 0, 0, 0, 0, 0, 1, 5, 89
+"d:\dry-fruits-app\WEB APP\components\product-card-animated.tsx", "TypeScript JSX", 0, 92, 0, 0, 0, 0, 0, 0, 0, 7, 13, 112
+"d:\dry-fruits-app\WEB APP\components\protected-route.tsx", "TypeScript JSX", 0, 33, 0, 0, 0, 0, 0, 0, 0, 0, 9, 42
+"d:\dry-fruits-app\WEB APP\components\scroll-reveal.tsx", "TypeScript JSX", 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 9, 44
+"d:\dry-fruits-app\WEB APP\components\stagger-container.tsx", "TypeScript JSX", 0, 30, 0, 0, 0, 0, 0, 0, 0, 0, 7, 37
+"d:\dry-fruits-app\WEB APP\components\theme-provider.tsx", "TypeScript JSX", 0, 9, 0, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"d:\dry-fruits-app\WEB APP\components\ui\accordion.tsx", "TypeScript JSX", 0, 59, 0, 0, 0, 0, 0, 0, 0, 0, 8, 67
+"d:\dry-fruits-app\WEB APP\components\ui\alert-dialog.tsx", "TypeScript JSX", 0, 143, 0, 0, 0, 0, 0, 0, 0, 0, 15, 158
+"d:\dry-fruits-app\WEB APP\components\ui\alert.tsx", "TypeScript JSX", 0, 60, 0, 0, 0, 0, 0, 0, 0, 0, 7, 67
+"d:\dry-fruits-app\WEB APP\components\ui\aspect-ratio.tsx", "TypeScript JSX", 0, 8, 0, 0, 0, 0, 0, 0, 0, 0, 4, 12
+"d:\dry-fruits-app\WEB APP\components\ui\avatar.tsx", "TypeScript JSX", 0, 47, 0, 0, 0, 0, 0, 0, 0, 0, 7, 54
+"d:\dry-fruits-app\WEB APP\components\ui\badge.tsx", "TypeScript JSX", 0, 41, 0, 0, 0, 0, 0, 0, 0, 0, 6, 47
+"d:\dry-fruits-app\WEB APP\components\ui\breadcrumb.tsx", "TypeScript JSX", 0, 99, 0, 0, 0, 0, 0, 0, 0, 0, 11, 110
+"d:\dry-fruits-app\WEB APP\components\ui\button-group.tsx", "TypeScript JSX", 0, 76, 0, 0, 0, 0, 0, 0, 0, 0, 8, 84
+"d:\dry-fruits-app\WEB APP\components\ui\button.tsx", "TypeScript JSX", 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 6, 61
+"d:\dry-fruits-app\WEB APP\components\ui\calendar.tsx", "TypeScript JSX", 0, 203, 0, 0, 0, 0, 0, 0, 0, 0, 11, 214
+"d:\dry-fruits-app\WEB APP\components\ui\card.tsx", "TypeScript JSX", 0, 83, 0, 0, 0, 0, 0, 0, 0, 0, 10, 93
+"d:\dry-fruits-app\WEB APP\components\ui\carousel.tsx", "TypeScript JSX", 0, 214, 0, 0, 0, 0, 0, 0, 0, 0, 28, 242
+"d:\dry-fruits-app\WEB APP\components\ui\chart.tsx", "TypeScript JSX", 0, 315, 0, 0, 0, 0, 0, 0, 0, 2, 37, 354
+"d:\dry-fruits-app\WEB APP\components\ui\checkbox.tsx", "TypeScript JSX", 0, 28, 0, 0, 0, 0, 0, 0, 0, 0, 5, 33
+"d:\dry-fruits-app\WEB APP\components\ui\collapsible.tsx", "TypeScript JSX", 0, 28, 0, 0, 0, 0, 0, 0, 0, 0, 6, 34
+"d:\dry-fruits-app\WEB APP\components\ui\command.tsx", "TypeScript JSX", 0, 172, 0, 0, 0, 0, 0, 0, 0, 0, 13, 185
+"d:\dry-fruits-app\WEB APP\components\ui\context-menu.tsx", "TypeScript JSX", 0, 234, 0, 0, 0, 0, 0, 0, 0, 0, 19, 253
+"d:\dry-fruits-app\WEB APP\components\ui\dialog.tsx", "TypeScript JSX", 0, 130, 0, 0, 0, 0, 0, 0, 0, 0, 14, 144
+"d:\dry-fruits-app\WEB APP\components\ui\drawer.tsx", "TypeScript JSX", 0, 122, 0, 0, 0, 0, 0, 0, 0, 0, 14, 136
+"d:\dry-fruits-app\WEB APP\components\ui\dropdown-menu.tsx", "TypeScript JSX", 0, 239, 0, 0, 0, 0, 0, 0, 0, 0, 19, 258
+"d:\dry-fruits-app\WEB APP\components\ui\empty.tsx", "TypeScript JSX", 0, 95, 0, 0, 0, 0, 0, 0, 0, 0, 10, 105
+"d:\dry-fruits-app\WEB APP\components\ui\field.tsx", "TypeScript JSX", 0, 225, 0, 0, 0, 0, 0, 0, 0, 0, 20, 245
+"d:\dry-fruits-app\WEB APP\components\ui\form.tsx", "TypeScript JSX", 0, 143, 0, 0, 0, 0, 0, 0, 0, 0, 25, 168
+"d:\dry-fruits-app\WEB APP\components\ui\hover-card.tsx", "TypeScript JSX", 0, 38, 0, 0, 0, 0, 0, 0, 0, 0, 7, 45
+"d:\dry-fruits-app\WEB APP\components\ui\input-group.tsx", "TypeScript JSX", 0, 151, 0, 0, 0, 0, 0, 0, 0, 3, 16, 170
+"d:\dry-fruits-app\WEB APP\components\ui\input-otp.tsx", "TypeScript JSX", 0, 69, 0, 0, 0, 0, 0, 0, 0, 0, 9, 78
+"d:\dry-fruits-app\WEB APP\components\ui\input.tsx", "TypeScript JSX", 0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 4, 22
+"d:\dry-fruits-app\WEB APP\components\ui\item.tsx", "TypeScript JSX", 0, 179, 0, 0, 0, 0, 0, 0, 0, 0, 15, 194
+"d:\dry-fruits-app\WEB APP\components\ui\kbd.tsx", "TypeScript JSX", 0, 25, 0, 0, 0, 0, 0, 0, 0, 0, 4, 29
+"d:\dry-fruits-app\WEB APP\components\ui\label.tsx", "TypeScript JSX", 0, 20, 0, 0, 0, 0, 0, 0, 0, 0, 5, 25
+"d:\dry-fruits-app\WEB APP\components\ui\menubar.tsx", "TypeScript JSX", 0, 257, 0, 0, 0, 0, 0, 0, 0, 0, 20, 277
+"d:\dry-fruits-app\WEB APP\components\ui\navigation-menu.tsx", "TypeScript JSX", 0, 155, 0, 0, 0, 0, 0, 0, 0, 0, 12, 167
+"d:\dry-fruits-app\WEB APP\components\ui\pagination.tsx", "TypeScript JSX", 0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 11, 128
+"d:\dry-fruits-app\WEB APP\components\ui\popover.tsx", "TypeScript JSX", 0, 41, 0, 0, 0, 0, 0, 0, 0, 0, 8, 49
+"d:\dry-fruits-app\WEB APP\components\ui\progress.tsx", "TypeScript JSX", 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 5, 32
+"d:\dry-fruits-app\WEB APP\components\ui\radio-group.tsx", "TypeScript JSX", 0, 40, 0, 0, 0, 0, 0, 0, 0, 0, 6, 46
+"d:\dry-fruits-app\WEB APP\components\ui\resizable.tsx", "TypeScript JSX", 0, 50, 0, 0, 0, 0, 0, 0, 0, 0, 7, 57
+"d:\dry-fruits-app\WEB APP\components\ui\scroll-area.tsx", "TypeScript JSX", 0, 53, 0, 0, 0, 0, 0, 0, 0, 0, 6, 59
+"d:\dry-fruits-app\WEB APP\components\ui\select.tsx", "TypeScript JSX", 0, 172, 0, 0, 0, 0, 0, 0, 0, 0, 14, 186
+"d:\dry-fruits-app\WEB APP\components\ui\separator.tsx", "TypeScript JSX", 0, 24, 0, 0, 0, 0, 0, 0, 0, 0, 5, 29
+"d:\dry-fruits-app\WEB APP\components\ui\sheet.tsx", "TypeScript JSX", 0, 126, 0, 0, 0, 0, 0, 0, 0, 0, 14, 140
+"d:\dry-fruits-app\WEB APP\components\ui\sidebar.tsx", "TypeScript JSX", 0, 660, 0, 0, 0, 0, 0, 0, 0, 12, 55, 727
+"d:\dry-fruits-app\WEB APP\components\ui\skeleton.tsx", "TypeScript JSX", 0, 11, 0, 0, 0, 0, 0, 0, 0, 0, 3, 14
+"d:\dry-fruits-app\WEB APP\components\ui\slider.tsx", "TypeScript JSX", 0, 58, 0, 0, 0, 0, 0, 0, 0, 0, 6, 64
+"d:\dry-fruits-app\WEB APP\components\ui\sonner.tsx", "TypeScript JSX", 0, 21, 0, 0, 0, 0, 0, 0, 0, 0, 5, 26
+"d:\dry-fruits-app\WEB APP\components\ui\spinner.tsx", "TypeScript JSX", 0, 13, 0, 0, 0, 0, 0, 0, 0, 0, 4, 17
+"d:\dry-fruits-app\WEB APP\components\ui\switch.tsx", "TypeScript JSX", 0, 27, 0, 0, 0, 0, 0, 0, 0, 0, 5, 32
+"d:\dry-fruits-app\WEB APP\components\ui\table.tsx", "TypeScript JSX", 0, 105, 0, 0, 0, 0, 0, 0, 0, 0, 12, 117
+"d:\dry-fruits-app\WEB APP\components\ui\tabs.tsx", "TypeScript JSX", 0, 59, 0, 0, 0, 0, 0, 0, 0, 0, 8, 67
+"d:\dry-fruits-app\WEB APP\components\ui\textarea.tsx", "TypeScript JSX", 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 4, 19
+"d:\dry-fruits-app\WEB APP\components\ui\toast.tsx", "TypeScript JSX", 0, 116, 0, 0, 0, 0, 0, 0, 0, 0, 14, 130
+"d:\dry-fruits-app\WEB APP\components\ui\toaster.tsx", "TypeScript JSX", 0, 32, 0, 0, 0, 0, 0, 0, 0, 0, 4, 36
+"d:\dry-fruits-app\WEB APP\components\ui\toggle-group.tsx", "TypeScript JSX", 0, 66, 0, 0, 0, 0, 0, 0, 0, 0, 8, 74
+"d:\dry-fruits-app\WEB APP\components\ui\toggle.tsx", "TypeScript JSX", 0, 42, 0, 0, 0, 0, 0, 0, 0, 0, 6, 48
+"d:\dry-fruits-app\WEB APP\components\ui\tooltip.tsx", "TypeScript JSX", 0, 54, 0, 0, 0, 0, 0, 0, 0, 0, 8, 62
+"d:\dry-fruits-app\WEB APP\components\ui\use-mobile.tsx", "TypeScript JSX", 0, 15, 0, 0, 0, 0, 0, 0, 0, 0, 5, 20
+"d:\dry-fruits-app\WEB APP\components\ui\use-toast.ts", "TypeScript", 0, 0, 0, 157, 0, 0, 0, 0, 0, 3, 32, 192
+"d:\dry-fruits-app\WEB APP\hooks\use-mobile.ts", "TypeScript", 0, 0, 0, 15, 0, 0, 0, 0, 0, 0, 5, 20
+"d:\dry-fruits-app\WEB APP\hooks\use-toast.ts", "TypeScript", 0, 0, 0, 157, 0, 0, 0, 0, 0, 3, 32, 192
+"d:\dry-fruits-app\WEB APP\lib\auth-context.tsx", "TypeScript JSX", 0, 131, 0, 0, 0, 0, 0, 0, 0, 6, 21, 158
+"d:\dry-fruits-app\WEB APP\lib\cart-context.tsx", "TypeScript JSX", 0, 80, 0, 0, 0, 0, 0, 0, 0, 0, 17, 97
+"d:\dry-fruits-app\WEB APP\lib\firebase-config.ts", "TypeScript", 0, 0, 0, 43, 0, 0, 0, 0, 0, 4, 9, 56
+"d:\dry-fruits-app\WEB APP\lib\paytm.ts", "TypeScript", 0, 0, 0, 40, 0, 0, 0, 0, 0, 3, 5, 48
+"d:\dry-fruits-app\WEB APP\lib\products.ts", "TypeScript", 0, 0, 0, 202, 0, 0, 0, 0, 0, 0, 1, 203
+"d:\dry-fruits-app\WEB APP\lib\test-accounts.ts", "TypeScript", 0, 0, 0, 66, 0, 0, 0, 0, 0, 9, 10, 85
+"d:\dry-fruits-app\WEB APP\lib\utils.ts", "TypeScript", 0, 0, 0, 5, 0, 0, 0, 0, 0, 0, 2, 7
+"d:\dry-fruits-app\WEB APP\next.config.mjs", "JavaScript", 0, 0, 0, 0, 0, 0, 9, 0, 0, 1, 2, 12
+"d:\dry-fruits-app\WEB APP\package-lock.json", "JSON", 0, 0, 0, 0, 4992, 0, 0, 0, 0, 0, 1, 4993
+"d:\dry-fruits-app\WEB APP\package.json", "JSON", 0, 0, 0, 0, 75, 0, 0, 0, 0, 0, 0, 75
+"d:\dry-fruits-app\WEB APP\pnpm-lock.yaml", "YAML", 0, 0, 0, 0, 0, 4, 0, 0, 0, 0, 1, 5
+"d:\dry-fruits-app\WEB APP\postcss.config.mjs", "JavaScript", 0, 0, 0, 0, 0, 0, 6, 0, 0, 1, 2, 9
+"d:\dry-fruits-app\WEB APP\public\icon.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 26, 0, 0, 26
+"d:\dry-fruits-app\WEB APP\public\placeholder-logo.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"d:\dry-fruits-app\WEB APP\public\placeholder.svg", "XML", 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1
+"d:\dry-fruits-app\WEB APP\styles\globals.css", "PostCSS", 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 6, 126
+"d:\dry-fruits-app\WEB APP\tsconfig.json", "JSON with Comments", 42, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 43
+"Total", "-", 42, 10457, 412, 721, 5088, 4, 15, 131, 28, 154, 1329, 18381
